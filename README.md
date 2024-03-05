@@ -13,6 +13,12 @@ Pay attention to multiline comments and modify the paramters as per need
 * Code2 :
 Use this on longer video as it Extract All the thing necessary for calcualting FFT and then separately plot FFT of Desired Time interval
 
+*Reference
+1) https://docs.opencv.org/3.4/de/dbc/tutorial_py_fourier_transform.html
+2) https://pyimagesearch.com/2021/02/22/opencv-connected-component-labeling-and-analysis/
+3) https://www.geeksforgeeks.org/python-opencv-write-text-on-video/
+4) https://chat.openai.com/c/4dd3b273-84de-40f1-ac39-0acdc1b19782
+
 ## Requirements
 
 - Python 3.x
